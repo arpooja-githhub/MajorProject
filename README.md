@@ -29,3 +29,9 @@ Backend	Node.js, Express.js
 Database	MongoDB Atlas
 Image Hosting	Cloudinary
 Deployment	Render
+
+
+<img width="2560" height="1290" alt="Screenshot (527)" src="https://github.com/user-attachments/assets/4f58e889-2a09-47c6-a626-93258463c830" />
+
+
+
