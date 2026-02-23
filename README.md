@@ -29,7 +29,9 @@ Backend	Node.js, Express.js
 Database	MongoDB Atlas
 Image Hosting	Cloudinary
 Deployment	Render
-Deployed URL : https://wanderhost-majorproject.onrender.com/
+
+
+Deployed URL : https://wanderhost-majorproject.onrender.com/ (Click on Explore) 
 
 
 <img width="2560" height="1262" alt="Screenshot (534)" src="https://github.com/user-attachments/assets/4902805b-9443-40b7-baed-8bf434bf6a23" />
